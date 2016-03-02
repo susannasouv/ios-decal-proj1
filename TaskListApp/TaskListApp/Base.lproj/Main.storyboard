@@ -62,6 +62,7 @@
                                     <outlet property="doneButton" destination="vPn-VA-OWa" id="LGX-7z-IVW"/>
                                     <outlet property="taskText" destination="j3o-nH-vBl" id="76C-LS-Jbd"/>
                                     <outletCollection property="gestureRecognizers" destination="y5O-qo-DJR" appends="YES" id="b0X-Fo-AWR"/>
+                                    <outletCollection property="gestureRecognizers" destination="y5O-qo-DJR" appends="YES" id="cHi-MQ-wLR"/>
                                     <segue destination="BYZ-38-t0r" kind="show" identifier="ShowDetail" id="sH5-5K-wqB"/>
                                 </connections>
                             </tableViewCell>
